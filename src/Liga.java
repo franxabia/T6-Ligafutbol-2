@@ -336,4 +336,8 @@ public class Liga {
 		return num;
 	}
 
+	public static void metodoNuevo(){
+		System.out.println("Este es un metodo nuevo");
+	}
+
 }
